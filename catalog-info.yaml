@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "DEmo11"
+  description: "Hello DEmo 11 "
+  annotations:
+    github.com/project-slug: praveen-nagarro/demo11
+    backstage.io/techdocs-ref: dir:.
+spec:
+  type: documentation
+  lifecycle: experimental
+  owner: "group:default/guests"

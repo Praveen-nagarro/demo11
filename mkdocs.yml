@@ -1,0 +1,8 @@
+site_name: "DEmo11"
+site_description: "Hello DEmo 11 "
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
